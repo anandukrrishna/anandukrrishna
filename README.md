@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Anandu Krishna
 
-<!--
-**anandukrrishna/anandukrrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Forward Deployed Engineer | Python and Django Developer
 
-Here are some ideas to get you started:
+I build practical web applications for real-world workflows, including event booking, student project management, food sharing, and accessibility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+Python · Django · Django REST Framework · JavaScript · HTML · CSS · SQLite · Git
+
+## Featured projects
+- **QuickBook** — Event booking backend with JWT authentication, seat validation, and a referral system.
+- **SkillHub** — Student project platform with staff reviews, company discovery, and REST API endpoints.
+- **SignBridge** — Django platform exploring Indian Sign Language interaction and accessibility.
+- **ShareBite** — Food sharing platform for donations, requests, and tracking.
+
+## Current focus
+Growing toward FDE work by building full-stack projects and improving my skills in API integrations, deployment, and solving user problems.
+
+[Portfolio](https://anandukrrishna.vercel.app/) · [GitHub](https://github.com/anandukrrishna)
